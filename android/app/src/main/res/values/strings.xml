@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">authenticate</string>
-    <string name="facebook_app_id">286476799198080</string>
-    <string name="fb_login_protocol_scheme">fb286476799198080</string>
+    <string name="facebook_app_id">??????????????</string>
+    <string name="fb_login_protocol_scheme">?????????????</string>
 </resources>
